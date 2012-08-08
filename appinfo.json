@@ -1,0 +1,11 @@
+{
+	"id": "com.micro-tech-mich.bootplate",
+	"version": "0.0.1",
+	"vendor": "Micro-tech",
+	"type": "web",
+	"main": "index.html",
+	"title": "App",
+	"icon": "icon.png",
+	"uiRevision":2
+
+}
