@@ -1,3 +1,7 @@
+Palmed BootPlate
+=================
+HP enyo bootplate set up to run on the touchpad
+
 bootplate
 =========
 
